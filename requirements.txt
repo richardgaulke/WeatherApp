@@ -1,0 +1,7 @@
+flask
+flask-cors
+elastic-apm
+waitress
+requests
+opentelemetry-distro
+opentelemetry-exporter-otlp
